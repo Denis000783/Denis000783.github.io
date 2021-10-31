@@ -31,18 +31,18 @@ div{
     height:710px;   
 }
 @media screen {
-.w{
-    width: 200px; 
-    height: 400px;
-    float: none;
-}
-p{
-    color: bisque;
-    font-size: 12px;
-    margin-left: 15px;
-    margin-right: 15px;
-}
-html{
-    background-image: url(нуро.jpg); 
-}
-}
+    .w{
+         column-width:200px ;
+         column-height: 400px;
+         column-float: none; 
+    }
+    p{
+        column-color: bisque;
+        column-font-size: 12px;
+        column-margin-left: 45px;
+        column-margin-right: 45px;
+    }
+    html{
+        column-background-image: url(нуро.jpg); 
+    }
+    }
