@@ -15,7 +15,7 @@ h1{
  margin-right: 150px;
  float: none;
 }
-html{
+index.html{
     background-image: url(нуро.jpg);
 }
 .w{
@@ -101,7 +101,7 @@ margin-left: 50px;
     }
     
     html{
-        background-image: url(нуро.jpg); 
+        background-color: black; 
     }
     p{
         font-size: 22px;
