@@ -33,16 +33,16 @@ div{
 @media screen {
     .w{
          column-width:200px ;
-         column-height: 400px;
-         column-float: none; 
+         line-height-step: 400px;
+         column-count: none; 
     }
     p{
-        column-color: bisque;
-        column-font-size: 12px;
-        column-margin-left: 45px;
-        column-margin-right: 45px;
+        accent-color: bisque;
+        column-rule-color: 12px;
+        scroll-margin-left: 45px;
+        scroll-margin-right: 45px;
     }
     html{
-        column-background-image: url(нуро.jpg); 
+        background-image: url(нуро.jpg); 
     }
     }
